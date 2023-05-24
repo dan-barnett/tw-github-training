@@ -2,6 +2,8 @@
 
 ## Edit Me!
 
+This is a change that I am making to this file.
+
 Open `source/documentation/index.md` in your favourite text editor and start editing!
 
 You can write content in [Markdown](https://daringfireball.net/projects/markdown/) using **all** of the _usual_ syntax that you're used to!
@@ -13,6 +15,7 @@ Food | Kind | Tasty?
 Bananas | Fruit | Yes
 Aubergines | Vegetable | No
 Apricots | Fruit | Yes
+Chips | Vegetable | Yes
 
 To change the title of the page or include additional files you'll need to edit `source/index.html.md.erb`.
 
